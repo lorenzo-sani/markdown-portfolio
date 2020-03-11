@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of gatto di marmo](https://i.ytimg.com/vi/jYu9pc7JEwE/maxresdefault.jpg)
